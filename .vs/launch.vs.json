@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "SimpleEQ_StandalonePlugin.vcxproj",
+      "project": "Builds\\VisualStudio2022\\SimpleEQ_StandalonePlugin.vcxproj",
+      "projectTarget": ""
+    }
+  ]
+}
