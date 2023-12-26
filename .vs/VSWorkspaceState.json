@@ -3,7 +3,7 @@
     "",
     "\\Builds",
     "\\Builds\\VisualStudio2022",
-    "\\Source"
+    "\\Builds\\VisualStudio2022\\x64"
   ],
   "SelectedNode": "\\Builds\\VisualStudio2022\\SimpleEQ.sln",
   "PreviewInSolutionExplorer": false
